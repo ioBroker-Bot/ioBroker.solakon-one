@@ -175,6 +175,10 @@ All data points are created under `solakon-one.0.*`.
 
 ## Changelog
 
+
+### **WORK IN PROGRESS**
+- (ioBroker-Bot) Adapter requires admin >= 7.8.23 now.
+
 ### 1.0.13 (2026-06-11)
 - Fix invalid role 'level.power' for power setpoint states (E1008)
 
